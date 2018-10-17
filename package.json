@@ -1,7 +1,8 @@
 {
-  "name": "datablock-extract",
+  "name": "data-block-extract",
   "version": "0.0.1",
-  "description": "Extract content from HTML datablock script elements",
+  "description": "Extract content from HTML data block script elements",
+  "bin": "index.js",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,7 +10,7 @@
   "keywords": [
     "html",
     "json-ld",
-    "datablock",
+    "data block",
     "dom",
     "content",
     "metadata"
