@@ -2,6 +2,7 @@
   "name": "data-block-extract",
   "version": "0.0.1",
   "description": "Extract content from HTML data block script elements",
+  "repository": "github:WileyLabs/data-block-extract",
   "bin": "index.js",
   "main": "index.js",
   "scripts": {
