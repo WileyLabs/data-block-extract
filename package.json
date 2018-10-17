@@ -1,0 +1,24 @@
+{
+  "name": "datablock-extract",
+  "version": "0.0.1",
+  "description": "Extract content from HTML datablock script elements",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "html",
+    "json-ld",
+    "datablock",
+    "dom",
+    "content",
+    "metadata"
+  ],
+  "author": "BigBlueHat <byoung@bigbluehat.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2",
+    "yargs": "^12.0.2"
+  }
+}

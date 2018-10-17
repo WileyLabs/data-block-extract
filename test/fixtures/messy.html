@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Messy</title>
+    <script type="application/ld+json">
+      {"@context": "http://schema.org/",
+       "name": "Messy",
+       "description": "This example has embedded markup with a `<!-- <script>` tag in it and also a partial comment to see if it makes the parser be over zealous."}
+    </script>
+    <!-- despite appearances, this is actually part of the script still! -->
+    <script>
+      ... // this is the same script block still...
+    </script>
+  </head>
+  <body></body>
+</html>
