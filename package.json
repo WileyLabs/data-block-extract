@@ -19,8 +19,8 @@
   "author": "BigBlueHat <byoung@bigbluehat.com>",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.18.1",
-    "cheerio": "^1.0.0-rc.2",
-    "yargs": "^12.0.2"
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.9",
+    "yargs": "^17.0.1"
   }
 }
